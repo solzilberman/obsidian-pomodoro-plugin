@@ -53,6 +53,14 @@ export default class MyPlugin extends Plugin {
 			}
 		});
 
+		this.addCommand({
+			id: 'reset-tomato-timer',
+			name: 'reset timer',
+			callback: () => {
+				this.timer.reset();
+			}
+		});
+
 		
 
 		this.addSettingTab(new TomatoTimerSettingTab(this.app, this));
@@ -103,7 +111,7 @@ class PluginControlModal extends Modal {
 	onOpen() {
 		const {contentEl} = this;
 		contentEl.empty();
-		contentEl.createEl('h2', {text: 'Potato Timer'});
+		contentEl.createEl('h2', {text: 'Tomato Timer'});
 		// append modal view
 		// contentEl.createDiv('modal-content').innerHTML = modal_view;
 		new Setting(contentEl)

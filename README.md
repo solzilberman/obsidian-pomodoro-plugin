@@ -21,9 +21,11 @@
 	1. `ctrl/command + p` to open obsidian command tool. 
 	2. type `start focus period`
 	3. type `start break period`
+	4. type `pause timer`
+	5. type `reset timer`
 
 ### Todo 
-- [ ] Add more commands (reset, change duration)
+- [ ] Add more commands (off, change duration)
 - [ ] Add audio in addition to notification ribbon
 - [ ] Make event loop more robust
 
