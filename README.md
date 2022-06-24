@@ -27,6 +27,7 @@
 	5. type `reset timer`
 
 ### Todo 
+- [ ] UI DESIGN :neutral_face:
 - [ ] Add more commands (off, change duration)
 - [ ] Add audio in addition to notification ribbon
 - [ ] Make event loop more robust
