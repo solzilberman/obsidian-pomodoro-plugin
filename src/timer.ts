@@ -30,7 +30,7 @@ export class Timer {
             // tick when time is up and timer is playing
             this.time = this.mode == 'focus' ? this.break_duration : this.focus_duration;
             this.mode = this.mode == 'focus' ? 'break' : 'focus';
-            new Notice('This is a notice!');
+            new Notice('Time is up!');
         }
     }
 
