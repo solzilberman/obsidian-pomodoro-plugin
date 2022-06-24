@@ -1,5 +1,7 @@
 # Obsidian :tomato: Pomodoro Timer for the Status Bar
 
+![image](https://user-images.githubusercontent.com/45021394/175448865-5f2dbd9a-fa08-46d6-9c9d-d5fbd396ac36.png)
+
 ![image](https://user-images.githubusercontent.com/45021394/175447429-befb4d6c-22a1-429d-978c-ce2cf97c44fd.png)
 
 ## Installation
