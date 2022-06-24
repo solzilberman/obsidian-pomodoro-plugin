@@ -1,0 +1,19 @@
+.off_button {
+    background-color: rgb(100, 100, 203) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.play_button {
+    background-color: rgb(115, 185, 101) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.pause_button {
+    background-color: rgb(206, 164, 58) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.my-my-plugin-modal {
+    background-color: rgb(255, 255, 255) !important;
+    color: rgb(0, 0, 0) !important;
+}

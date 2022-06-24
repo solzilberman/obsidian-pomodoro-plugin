@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tomato-timer",
+	"name": "Tomato Timer",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "This is a basic tomato (pomodoro) timer for the obsidian status bar.",
+	"author": "Sol Zilberman",
+	"authorUrl": "https://solzilberman.github.io",
+	"isDesktopOnly": false
+}
